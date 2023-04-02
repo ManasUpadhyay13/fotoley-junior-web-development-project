@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "fotoley-junior-frontend-developer",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
